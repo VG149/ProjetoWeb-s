@@ -1,0 +1,23 @@
+body{
+	background-color: #cccccc;
+}
+#topo{
+	background-color: blue;
+	height: 100px;
+}
+#banner{
+	background-color: red;
+	height: 250px;
+}
+#card1{
+	background-color: black;
+	height: 300px;
+}
+#card2{
+	background-color: blue;
+	height: 300px;
+}
+#card3{
+	background-color: black;
+	height: 300px;
+}
